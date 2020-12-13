@@ -1,0 +1,130 @@
+.topcontainer{
+  background-color: #e4f9f5;
+  padding-top: 150px;
+}
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 50px auto 0 auto;
+    font-family: 'Lobster', cursive;
+    font-size: 5.4rem;
+    color:#66bfbf;
+}
+.cloud{
+  width:200px;
+  height: 150px;
+  margin:0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 15px;
+}
+.mountain{
+  width: 900px;
+}
+h2{
+  font-family: 'Parisienne', cursive;
+  color:#66bfbf;
+}
+p{
+  font-size:25px;
+
+}
+.font{
+  font-family: 'Odibee Sans', cursive;
+}
+.web{
+  font-size: 2.5rem;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.badminton{
+  width:25%;
+  float: right;
+  margin-left: 20px;
+}
+.gaming{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill{
+  font-size: 40px;
+}
+.hello{
+  font-size: 35px;
+}
+hr{
+  border: dotted #B3B6B7 6px;
+  border-bottom: none;
+  width:15%;
+}
+.profile{
+  margin-top: 20px;
+}
+.get{
+  font-size: 50px;
+  width: 400px;
+  margin: 20px auto 0 auto;
+}
+.btn{
+  margin: 20px auto 80px auto;
+	-moz-box-shadow:  3px   ;
+	-webkit-box-shadow:  3px   ;
+	box-shadow:  3px   ;
+	background-color:#44c767;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	font-style:normal;
+height:65px;
+	line-height:65px;
+width:143px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.:hover {
+	background-color:#5cbf2a;
+}.:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  font-size: 30px;
+  margin: 20px;
+  color: #11999e;
+}
+.bottom{
+  font-size: 30px;
+}
